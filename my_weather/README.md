@@ -14,3 +14,7 @@ A basic weather checker application.
 
 - Development Status: Completed
 - Note: There may still be bits of bugs here and there, but the major aim of the application, which was to work with a rest api, has been achieved.
+- Icons from Icons8Kitchen
+
+![home screen](/my_weather/pics/home_screen.png)
+![search screen](/my_weather/pics/search_screen.png)
